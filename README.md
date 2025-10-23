@@ -1,4 +1,4 @@
-# Classifying Philisophical Text by School of Thought Using NLP and Machine Learning 
+# Classifying Philosophical Text by School of Thought Using NLP and Machine Learning 
 
 This project applies **Natural Language Processing (NLP)** to classify philosophical texts according to their **school of thought** — such as Stocism, German Idealism, and Phenomenology. It explores how linguistic patterns and semantic features can reveal philosophical alignment in written works.
 
